@@ -103,6 +103,7 @@ Logical structuring of programs
 Clean and readable code writing
 
 Consistent hands-on practice
+
 📈 Learning Strategy
 
 One chapter at a time
