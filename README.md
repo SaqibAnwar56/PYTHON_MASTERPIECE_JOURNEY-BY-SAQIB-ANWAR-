@@ -3,9 +3,9 @@
 Saqib Anwar
 
 Welcome to my structured Python learning repository.
-This repository documents my systematic progress as I build strong programming fundamentals through consistent study, practice exercises, and mini projects.
+This repository documents my disciplined journey of mastering Python fundamentals through consistent study, practice sheets, and hands-on mini projects.
 
-My focus is on mastering core concepts deeply before moving toward advanced development.
+My goal is to build a strong conceptual foundation before moving toward advanced development and real-world applications.
 
 📚 Chapters Completed
 ✅ Chapter 1 – Modules, Comments & pip
@@ -14,24 +14,25 @@ Understanding Python modules and standard library
 
 Installing and managing external packages using pip
 
-Writing clean and well-documented code using comments
+Writing clean, well-documented code
 
 Working with third-party libraries
 
-Outcome:
-Developed understanding of Python environment setup and modular programming basics.
+Outcome: Developed clarity on Python environment setup and modular usage.
 
 ✅ Chapter 2 – Variables & Data Types
 
 Working with variables and memory concepts
 
-Understanding data types: int, float, str, bool
+Core data types: int, float, str, bool
 
-User input handling and type conversion
+User input handling
 
-Performing arithmetic operations
+Type conversion
 
-🔹 Mini Projects Built
+Arithmetic operations
+
+🔹 Mini Projects
 
 Personal Introduction Generator
 
@@ -39,8 +40,7 @@ Simple Calculator
 
 Student Result Summary Generator
 
-Outcome:
-Strengthened understanding of Input → Process → Output flow in programming.
+Outcome: Mastered the Input → Process → Output programming model.
 
 ✅ Chapter 3 – Strings
 
@@ -52,68 +52,71 @@ Step slicing
 
 String immutability
 
-String methods:
-len(), upper(), lower(), capitalize(), find(), count(), startswith(), endswith()
+Built-in string methods
 
-Escape sequences (\n, \t, \")
+Escape sequences
 
-Outcome:
-Improved ability to manipulate and format textual data effectively.
+Outcome: Gained strong text manipulation skills.
 
 ✅ Chapter 4 – Lists & Tuples
 
-Creating and managing lists
+List creation and indexing
 
-Indexing and slicing
+List slicing
 
-List methods (append(), insert(), remove(), sort(), etc.)
+List methods (append(), insert(), remove(), sort())
 
-Understanding tuples and immutability
+Tuple basics and immutability
 
 Differences between lists and tuples
 
-Outcome:
-Learned structured data storage and collection handling.
+Outcome: Learned structured data collection management.
 
 ✅ Chapter 5 – Dictionaries & Sets
 
-Understanding key-value data storage
+Key-value data storage
 
-Creating, accessing, updating, and deleting dictionary entries
+Creating, accessing, updating dictionary elements
 
 Iterating over dictionaries
 
-Understanding sets and uniqueness property
+Understanding sets and uniqueness
 
-Set operations (union, intersection basics)
+Basic set operations
 
-Outcome:
-Enhanced ability to model real-world structured data and handle unique collections.
+Outcome: Improved structured data modeling capability.
+
+✅ Chapter 6 – Conditional Expressions
+
+if, if-else, if-elif-else statements
+
+Nested conditionals
+
+Logical operators
+
+Decision-making logic
+
+Outcome: Began developing logical problem-solving ability.
 
 🛠 Skills Developed
 
-Strong foundation in Python fundamentals
+Strong Python fundamentals
 
-Data storage and manipulation
+Data manipulation
 
-Working with strings and collections
+Structured programming
 
-Logical structuring of programs
+Logical thinking
 
 Clean and readable code writing
 
-Consistent hands-on practice
-
-📈 Learning Strategy
-
-One chapter at a time
-
-Immediate practice after theory
-
-Mini project implementation for clarity
-
-Structured documentation
-
-Focus on deep understanding over speed
+Practice-driven learning
 
 Mini project implementation
+
+📊 Current Progress Status
+
+✔ 6 Chapters Completed
+✔ 6 Practice Sheets Completed
+✔ 3 Mini Projects Built
+✔ Ready to Build Logic-Based Projects
